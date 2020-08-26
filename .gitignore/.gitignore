@@ -1,0 +1,10 @@
+# Other keepers
+!.gitignore
+!.gitkeep
+
+*.xlsx
+*.pdf
+*.Rhistory
+*.log
+*.csv
+*.json
